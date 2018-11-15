@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/SpellCheckerSample/Form1.cs) (VB: [Form1.vb](./VB/SpellCheckerSample/Form1.vb))
+* [Program.cs](./CS/SpellCheckerSample/Program.cs) (VB: [Program.vb](./VB/SpellCheckerSample/Program.vb))
+<!-- default file list end -->
 # How to switch on the CheckAsYouType mode in the RichTextBox control
 
 
